@@ -1,0 +1,21 @@
+.qks {
+  background: #0c0c0c;
+}
+.qks__block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.qks__img {
+  margin-right: 20px;
+}
+.qks__title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 140%;
+  /* or 67px */
+  /* white */
+  color: #FFFFFF;
+}

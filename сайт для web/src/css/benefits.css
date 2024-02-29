@@ -1,0 +1,43 @@
+.benefits {
+  background: #0c0c0c;
+  padding-top: 200px;
+}
+.benefits__title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 140%;
+  /* or 67px */
+  text-align: center;
+  /* white */
+  color: #FFFFFF;
+  margin-bottom: 126px;
+}
+.benefits__img {
+  margin-bottom: 66px;
+}
+.benefits__subtitle {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 140%;
+  /* or 34px */
+  text-align: center;
+  /* white */
+  color: #FFFFFF;
+  margin-bottom: 30px;
+}
+.benefits__text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+  text-align: center;
+  /* white */
+  color: #FFFFFF;
+  opacity: 0.8;
+}

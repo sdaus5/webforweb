@@ -1,0 +1,8 @@
+.teachers {
+  background: #0c0c0c;
+}
+.teachers__blocl {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
